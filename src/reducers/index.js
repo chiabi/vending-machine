@@ -7,6 +7,6 @@ import {
 const chooseItem = (state = initialState, action) => {
   switch (action.type) {
     case 'CHOOSE_ITEMS':
-      return [...state, action.id]
+      
   }
 }

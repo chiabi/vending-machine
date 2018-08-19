@@ -27,11 +27,6 @@ export const returnCoin = (coins) => ({
 })
 
 // {
-//   wallet: {
-//     coin50: 10,
-//     coin100: 10,
-//     coin500: 10,
-//   },
 //   items: [
 //     {
 //       id: 1,
